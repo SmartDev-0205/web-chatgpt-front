@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ab6f0530.css",
+    "main.js": "/static/js/main.f8cc7f2e.js",
+    "static/js/27.eaa23922.chunk.js": "/static/js/27.eaa23922.chunk.js",
+    "static/media/BalsamiqSans-Regular.ttf": "/static/media/BalsamiqSans-Regular.4279fb088feb5004db62.ttf",
+    "static/media/Poppins-Regular.ttf": "/static/media/Poppins-Regular.35d26b781dc5fda684cc.ttf",
+    "static/media/Euclid-Circular-B-Regular.ttf": "/static/media/Euclid-Circular-B-Regular.4a3055af2b5d3eb95690.ttf",
+    "static/media/attach.png": "/static/media/attach.e7718c2fef3e6c5222b0.png",
+    "static/media/send.png": "/static/media/send.38347fe9c995e38725ab.png",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.ab6f0530.css",
+    "static/js/main.f8cc7f2e.js"
+  ]
+}
